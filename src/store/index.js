@@ -10,7 +10,10 @@ Vue.use(Vuex)
 const state = {
   user: ls.getItem('user'),
   auth: ls.getItem('auth'),
-  articles: ls.getItem('articles')
+  articles: ls.getItem('articles'),
+  searchValue: '',
+  // 默认为 location.origin
+  origin: location.origin
 }
 
 const mutations = {
