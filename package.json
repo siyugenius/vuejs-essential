@@ -15,6 +15,7 @@
     "bootstrap-sass": "^3.4.1",
     "font-awesome": "^4.7.0",
     "highlight.js": "E:\\sy\\Code\\vuejs-essential>\"node\"  \"C:\\Users\\slm\\AppData\\Roaming\\npm\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^9.18.1",
+    "mockjs": "E:\\sy\\Code\\vuejs-essential>\"node\"  \"C:\\Users\\slm\\AppData\\Roaming\\npm\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^1.1.0",
     "moment": "E:\\sy\\Code\\vuejs-essential>\"node\"  \"C:\\Users\\slm\\AppData\\Roaming\\npm\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^2.24.0",
     "node-emoji": "E:\\sy\\Code\\vuejs-essential>\"node\"  \"C:\\Users\\slm\\AppData\\Roaming\\npm\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^1.10.0",
     "peer": "^0.5.2",
